@@ -6,4 +6,4 @@
 
 <a href="https://zenhub.io"><img src="https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png"></a>
 
-Docker image with python-pip, python-dev, and gcc on alpine linux
+Docker image with python, python-pip, python-dev, and gcc on alpine linux

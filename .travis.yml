@@ -16,4 +16,4 @@ notifications:
 
 script:
 - docker build -t scottmiller171/alpine-python:latest .
-- docker run scottmiller171/alpine-docker:latest python --version
+- docker run scottmiller171/alpine-python:latest python --version
